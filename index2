@@ -5,6 +5,7 @@
   <meta name="google-site-verification" content="$CODE_GOOGLE" />
   <title>$TITLE</title>
   <meta name="description" content="$DESCRIPTION"/>
+  <meta name="keywords" content="$METAKW">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no"/>
   <meta name="aplus-auto-exp" content='[{"filter":"exp-tracking=suggest-official-store","logkey":"/lzdse.result.os_impr","props":["href"],"tag":"a"}]'/>
   <meta name="robots" content="index, follow"/>
