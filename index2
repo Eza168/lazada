@@ -19,7 +19,7 @@
   <meta name="page google.com" content="https://www.google.com/search?q=$GOOGLE_KW2">
   <meta name="page google.co.id" content="https://www.google.co.id/search?q=$GOOGLE_KW2">
   <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
-  <link rel="shortcut icon" href="https://res.cloudinary.com/dpebccg7u/image/upload/v1723818731/rp8888/qzo0yj8sc0se37zu7cxd.ico"/>
+  <link rel="shortcut icon" href="$URL_LPimage/rp8888.ico"/>
   <link rel="canonical" href="$URL_LP"/>
   <link rel="amphtml" href="$URL_AMP"/>
   <!-- start preload -->
@@ -634,7 +634,7 @@
         </div>
         <div class="lzd-logo-bar">
           <div class="logo-bar-content header-content">
-              <div class="lzd-logo-content"><a href="$URL_LP"><img src="https://res.cloudinary.com/dpebccg7u/image/upload/v1722847920/rp8888/dbor1uiof6cbaqagrikj.gif" alt="Logo $KW1_SUBJEK" data-pagespeed-url-hash="1025876995" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></a></div>
+              <div class="lzd-logo-content"><a href="$URL_LP"><img src="$URL_LPimage/logo-rp8888.gif" alt="Logo $KW1_SUBJEK" data-pagespeed-url-hash="1025876995" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></a></div>
               <div class="lzd-nav-search " data-spm="search">
                 <div id="button" data-spm-click="gostr=/lzdpub.header.search;locaid=d_go"></div>
               </div>
@@ -1681,28 +1681,28 @@
         <nav class="lzd-menu-labels" data-spm="menu">
             <a class="lzd-menu-labels-item" href="$URL_LP">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
-                    <img alt="$KW1_SUBJEK" class="lzd-site-nav-menu-iconfont-img" src="https://res.cloudinary.com/dpebccg7u/image/upload/v1723818731/rp8888/qzo0yj8sc0se37zu7cxd.ico" data-pagespeed-url-hash="1247496011" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                    <img alt="$KW1_SUBJEK" class="lzd-site-nav-menu-iconfont-img" src="$URL_LPimage/rp8888.ico" data-pagespeed-url-hash="1247496011" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                 </span>
                 <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-$KW2_SUBJEK">&#xe629;</i>-->
                 <span class="lzd-menu-labels-item-text">$KW1_SUBJEK</span>
             </a>
             <a class="lzd-menu-labels-item" href="https://www.lazada.co.id/">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
-                    <img alt="$KW2_SUBJEK" class="lzd-site-nav-menu-iconfont-img" src="https://res.cloudinary.com/dpebccg7u/image/upload/v1723818731/rp8888/qzo0yj8sc0se37zu7cxd.ico" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                    <img alt="$KW2_SUBJEK" class="lzd-site-nav-menu-iconfont-img" src="$URL_LPimage/rp8888.ico" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                 </span>
                 <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-$KW2_SUBJEK">&#xe768;</i>-->
                         <span class="lzd-menu-labels-item-text">$KW2_SUBJEK</span>
             </a>
             <a class="lzd-menu-labels-item" href="https://www.lazada.co.id/">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
-                    <img alt="$KW3_SUBJEK" class="lzd-site-nav-menu-iconfont-img" src="https://res.cloudinary.com/dpebccg7u/image/upload/v1723818731/rp8888/qzo0yj8sc0se37zu7cxd.ico" data-pagespeed-url-hash="4146563714" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                    <img alt="$KW3_SUBJEK" class="lzd-site-nav-menu-iconfont-img" src="$URL_LPimage/rp8888.ico" data-pagespeed-url-hash="4146563714" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                 </span>
                 <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-$KW3_SUBJEK">&#xe76a;</i>-->
                         <span class="lzd-menu-labels-item-text">$KW3_SUBJEK</span>
             </a>
             <a class="lzd-menu-labels-item" href="https://www.lazada.co.id/">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
-                    <img alt="$KW4_SUBJEK" class="lzd-site-nav-menu-iconfont-img" src="https://res.cloudinary.com/dpebccg7u/image/upload/v1723818731/rp8888/qzo0yj8sc0se37zu7cxd.ico" data-pagespeed-url-hash="410448523" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                    <img alt="$KW4_SUBJEK" class="lzd-site-nav-menu-iconfont-img" src="$URL_LPimage/rp8888.ico" data-pagespeed-url-hash="410448523" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                 </span>
                 <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-Categories">&#xe765;</i>-->
                 <span class="lzd-menu-labels-item-text">$KW4_SUBJEK</span>
@@ -2762,28 +2762,28 @@
         <nav class="lzd-menu-labels" data-spm="menu">
             <a class="lzd-menu-labels-item" href="$URL_LP">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
-                    <img alt="$KW1_SUBJEK" class="lzd-site-nav-menu-iconfont-img" src="https://res.cloudinary.com/dpebccg7u/image/upload/v1723818731/rp8888/qzo0yj8sc0se37zu7cxd.ico" data-pagespeed-url-hash="3947076755" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                    <img alt="$KW1_SUBJEK" class="lzd-site-nav-menu-iconfont-img" src="$URL_LPimage/rp8888.ico" data-pagespeed-url-hash="3947076755" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                 </span>
                 <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-$KW1_SUBJEK">&#xe629;</i>-->
                 <span class="lzd-menu-labels-item-text">$KW1_SUBJEK</span>
             </a>
             <a class="lzd-menu-labels-item">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
-                    <img alt="$KW2_SUBJEK" class="lzd-site-nav-menu-iconfont-img" src="https://res.cloudinary.com/dpebccg7u/image/upload/v1723818731/rp8888/qzo0yj8sc0se37zu7cxd.ico" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                    <img alt="$KW2_SUBJEK" class="lzd-site-nav-menu-iconfont-img" src="$URL_LPimage/rp8888.ico" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                 </span>
                 <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-$KW2_SUBJEK">&#xe768;</i>-->
                         <span class="lzd-menu-labels-item-text">$KW2_SUBJEK</span>
             </a>
             <a class="lzd-menu-labels-item">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
-                    <img alt="$KW3_SUBJEK" class="lzd-site-nav-menu-iconfont-img" src="https://res.cloudinary.com/dpebccg7u/image/upload/v1723818731/rp8888/qzo0yj8sc0se37zu7cxd.ico" data-pagespeed-url-hash="4146563714" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                    <img alt="$KW3_SUBJEK" class="lzd-site-nav-menu-iconfont-img" src="$URL_LPimage/rp8888.ico" data-pagespeed-url-hash="4146563714" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                 </span>
                 <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-$KW3_SUBJEK">&#xe76a;</i>-->
                         <span class="lzd-menu-labels-item-text">$KW3_SUBJEK</span>
             </a>
             <a class="lzd-menu-labels-item" >
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
-                    <img alt="$KW4_SUBJEK" class="lzd-site-nav-menu-iconfont-img" src="https://res.cloudinary.com/dpebccg7u/image/upload/v1723818731/rp8888/qzo0yj8sc0se37zu7cxd.ico" data-pagespeed-url-hash="335598057" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                    <img alt="$KW4_SUBJEK" class="lzd-site-nav-menu-iconfont-img" src="$URL_LPimage/rp8888.ico" data-pagespeed-url-hash="335598057" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                 </span>
                 <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-Categories-$KW4_SUBJEK">&#xe765;</i>-->
                 <span class="lzd-menu-labels-item-text">$KW4_SUBJEK</span>
@@ -2923,25 +2923,25 @@ window.__pdpHydrateStatus=1;var loading=document.getElementById('pdp-skeleton-ne
   </div>
   <div class="lzd-footer-width-32 lzd-footer-spacing">
     <h3 class="lzd-footer-h3">Jasa Pengiriman</h3>
-      <img class="lzd-icon-delivery " src="https://res.cloudinary.com/dpebccg7u/image/upload/v1722847920/rp8888/dbor1uiof6cbaqagrikj.gif" alt="Lazada Logistics" style="height: 70px;   width: 96px;" data-pagespeed-url-hash="840149225" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
-      <img class="lzd-icon-delivery " src="https://res.cloudinary.com/dpebccg7u/image/upload/v1722847920/rp8888/dbor1uiof6cbaqagrikj.gif" alt="JNE" style="height: 70px;   width: 96px;" data-pagespeed-url-hash="2817017877" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
-      <img class="lzd-icon-delivery " src="https://res.cloudinary.com/dpebccg7u/image/upload/v1722847920/rp8888/dbor1uiof6cbaqagrikj.gif" alt="Ninja Express" style="height: 70px;   width: 96px;" data-pagespeed-url-hash="852769059" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
-      <img class="lzd-icon-delivery " src="https://res.cloudinary.com/dpebccg7u/image/upload/v1722847920/rp8888/dbor1uiof6cbaqagrikj.gif" alt="GoSend" style="height: 70px;   width: 96px;" data-pagespeed-url-hash="1121835383" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
-      <img class="lzd-icon-delivery " src="https://res.cloudinary.com/dpebccg7u/image/upload/v1722847920/rp8888/dbor1uiof6cbaqagrikj.gif" alt="Sicepat" style="height: 70px;   width: 96px;" data-pagespeed-url-hash="725924123" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
-      <img class="lzd-icon-delivery " src="https://res.cloudinary.com/dpebccg7u/image/upload/v1722847920/rp8888/dbor1uiof6cbaqagrikj.gif" alt="Grab Parcel" style="height: 70px;   width: 96px;" data-pagespeed-url-hash="4248202623" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
-      <img class="lzd-icon-delivery " src="https://res.cloudinary.com/dpebccg7u/image/upload/v1722847920/rp8888/dbor1uiof6cbaqagrikj.gif" alt="J &amp; T" style="height: 70px;   width: 96px;" data-pagespeed-url-hash="1332361893" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
-      <img class="lzd-icon-delivery " src="https://res.cloudinary.com/dpebccg7u/image/upload/v1722847920/rp8888/dbor1uiof6cbaqagrikj.gif" alt="anter" style="height: 70px;   width: 96px;" data-pagespeed-url-hash="1880401901" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
-      <img class="lzd-icon-delivery " src="https://res.cloudinary.com/dpebccg7u/image/upload/v1722847920/rp8888/dbor1uiof6cbaqagrikj.gif" alt="SAP" style="height: 70px;   width: 96px;" data-pagespeed-url-hash="1132705191" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+      <img class="lzd-icon-delivery " src="$URL_LPimage/logo-rp8888.gif" alt="Lazada Logistics" style="height: 70px;   width: 96px;" data-pagespeed-url-hash="840149225" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+      <img class="lzd-icon-delivery " src="$URL_LPimage/logo-rp8888.gif" alt="JNE" style="height: 70px;   width: 96px;" data-pagespeed-url-hash="2817017877" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+      <img class="lzd-icon-delivery " src="$URL_LPimage/logo-rp8888.gif" alt="Ninja Express" style="height: 70px;   width: 96px;" data-pagespeed-url-hash="852769059" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+      <img class="lzd-icon-delivery " src="$URL_LPimage/logo-rp8888.gif" alt="GoSend" style="height: 70px;   width: 96px;" data-pagespeed-url-hash="1121835383" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+      <img class="lzd-icon-delivery " src="$URL_LPimage/logo-rp8888.gif" alt="Sicepat" style="height: 70px;   width: 96px;" data-pagespeed-url-hash="725924123" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+      <img class="lzd-icon-delivery " src="$URL_LPimage/logo-rp8888.gif" alt="Grab Parcel" style="height: 70px;   width: 96px;" data-pagespeed-url-hash="4248202623" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+      <img class="lzd-icon-delivery " src="$URL_LPimage/logo-rp8888.gif" alt="J &amp; T" style="height: 70px;   width: 96px;" data-pagespeed-url-hash="1332361893" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+      <img class="lzd-icon-delivery " src="$URL_LPimage/logo-rp8888.gif" alt="anter" style="height: 70px;   width: 96px;" data-pagespeed-url-hash="1880401901" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+      <img class="lzd-icon-delivery " src="$URL_LPimage/logo-rp8888.gif" alt="SAP" style="height: 70px;   width: 96px;" data-pagespeed-url-hash="1132705191" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
   </div>
   <div class="lzd-footer-width-32">
     <h3 class="lzd-footer-h3">Verified by</h3>
       <div class="pull-left"> 
-      <a href="https://res.cloudinary.com/dpebccg7u/image/upload/v1722847920/rp8888/dbor1uiof6cbaqagrikj.gif" rel="nofollow" target="_blank">
+      <a href="$URL_LPimage/logo-rp8888.gif" rel="nofollow" target="_blank">
       <img class="img-verify img-pointer" src="https://lzd-img-global.slatic.net/g/tps/tfs/TB1lbmoqYr1gK0jSZR0XXbP8XXa-340-200.png" alt="ISO" style="height: 60px;" data-pagespeed-url-hash="388777633" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
   </a>
       </div>
       <div class="pull-left">
-      <a href="https://res.cloudinary.com/dpebccg7u/image/upload/v1722847920/rp8888/dbor1uiof6cbaqagrikj.gif" rel="nofollow" target="_blank">
+      <a href="$URL_LPimage/logo-rp8888.gif" rel="nofollow" target="_blank">
       <img class="img-verify img-pointer" src="https://lzd-img-global.slatic.net/g/tps/tfs/TB1jyJMv.H1gK0jSZSyXXXtlpXa-184-120.png" alt="PCI DSS" style="height: 60px;" data-pagespeed-url-hash="1470017094" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
   </a>
       </div>
@@ -2964,28 +2964,28 @@ window.__pdpHydrateStatus=1;var loading=document.getElementById('pdp-skeleton-ne
   <div class="lzd-footer-width-25" data-spm="sns">
     <h3 class="lzd-footer-title">Follow Us</h3>
       <a class="lzd-follow-us-icon" data-spm-click="gostr=/lzdpub.footer.sns;locaid=d_fbk" style="display: inline-block; width: 32px; height: 32px">
-        <img src="https://res.cloudinary.com/dpebccg7u/image/upload/v1722847920/rp8888/dbor1uiof6cbaqagrikj.gif" style="width: 32px; height: 32px" alt="fb" data-pagespeed-url-hash="1497089799" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+        <img src="$URL_LPimage/logo-rp8888.gif" style="width: 32px; height: 32px" alt="fb" data-pagespeed-url-hash="1497089799" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
       </a>
       <a class="lzd-follow-us-icon" data-spm-click="gostr=/lzdpub.footer.sns;locaid=d_lnk" style="display: inline-block; width: 32px; height: 32px">
-        <img src="https://res.cloudinary.com/dpebccg7u/image/upload/v1722847920/rp8888/dbor1uiof6cbaqagrikj.gif" style="width: 32px; height: 32px" alt="linkin" data-pagespeed-url-hash="1507801365" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+        <img src="$URL_LPimage/logo-rp8888.gif" style="width: 32px; height: 32px" alt="linkin" data-pagespeed-url-hash="1507801365" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
       </a>
       <a class="lzd-follow-us-icon" data-spm-click="gostr=/lzdpub.footer.sns;locaid=d_ytb" style="display: inline-block; width: 32px; height: 32px">
-        <img src="https://res.cloudinary.com/dpebccg7u/image/upload/v1722847920/rp8888/dbor1uiof6cbaqagrikj.gif" style="width: 32px; height: 32px" alt="yt" data-pagespeed-url-hash="724010229" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+        <img src="$URL_LPimage/logo-rp8888.gif" style="width: 32px; height: 32px" alt="yt" data-pagespeed-url-hash="724010229" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
       </a>
       <a class="lzd-follow-us-icon" data-spm-click="gostr=/lzdpub.footer.sns;locaid=d_pnt" style="display: inline-block; width: 32px; height: 32px">
-        <img src="https://res.cloudinary.com/dpebccg7u/image/upload/v1722847920/rp8888/dbor1uiof6cbaqagrikj.gif" style="width: 32px; height: 32px" alt="pnt" data-pagespeed-url-hash="352724785" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+        <img src="$URL_LPimage/logo-rp8888.gif" style="width: 32px; height: 32px" alt="pnt" data-pagespeed-url-hash="352724785" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
       </a>
       <a class="lzd-follow-us-icon" data-spm-click="gostr=/lzdpub.footer.sns;locaid=d_ins" style="display: inline-block; width: 32px; height: 32px">
-        <img src="https://res.cloudinary.com/dpebccg7u/image/upload/v1722847920/rp8888/dbor1uiof6cbaqagrikj.gif" style="width: 32px; height: 32px" alt="ins" data-pagespeed-url-hash="74682853" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+        <img src="$URL_LPimage/logo-rp8888.gif" style="width: 32px; height: 32px" alt="ins" data-pagespeed-url-hash="74682853" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
       </a>
       <a class="lzd-follow-us-icon" data-spm-click="gostr=/lzdpub.footer.sns;locaid=d_twr" style="display: inline-block; width: 32px; height: 32px">
-        <img src="https://res.cloudinary.com/dpebccg7u/image/upload/v1722847920/rp8888/dbor1uiof6cbaqagrikj.gif" style="width: 32px; height: 32px" alt="tw" data-pagespeed-url-hash="3619888010" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+        <img src="$URL_LPimage/logo-rp8888.gif" style="width: 32px; height: 32px" alt="tw" data-pagespeed-url-hash="3619888010" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
       </a>
       <a class="lzd-follow-us-icon" data-spm-click="gostr=/lzdpub.footer.sns;locaid=d_tkk" style="display: inline-block; width: 32px; height: 32px">
-        <img src="https://res.cloudinary.com/dpebccg7u/image/upload/v1723818731/rp8888/qzo0yj8sc0se37zu7cxd.ico" style="width: 32px; height: 32px" alt="tiktok" data-pagespeed-url-hash="3364530100" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+        <img src="$URL_LPimage/rp8888.ico" style="width: 32px; height: 32px" alt="tiktok" data-pagespeed-url-hash="3364530100" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
       </a>
       <a class="lzd-follow-us-icon" href="https://www.lazada.co.id/blog/" data-spm-click="gostr=/lzdpub.footer.sns;locaid=d_blg" style="display: inline-block; width: 32px; height: 32px">
-        <img src="https://res.cloudinary.com/dpebccg7u/image/upload/v1723818731/rp8888/qzo0yj8sc0se37zu7cxd.ico" style="width: 32px; height: 32px" alt="Lazada Blg" data-pagespeed-url-hash="3615190259" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+        <img src="$URL_LPimage/rp8888.ico" style="width: 32px; height: 32px" alt="Lazada Blg" data-pagespeed-url-hash="3615190259" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
       </a>
   </div>
   <div class="lzd-footer-width-25">
