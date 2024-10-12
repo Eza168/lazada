@@ -22,7 +22,7 @@
 <meta name="google-site-verification" content="$CODE_GOOGLE" />
 <meta name="og:image" content="$URL_IMAGE" alt="$TITLE" />
 <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
-<link rel="shortcut icon" href="$URL_LPimage/logo-rp8888.webp" alt="RP8888 Website Terpercaya" />
+<link rel="shortcut icon" href="$URL_LPimage/logo-rp8888.webp" alt="$TITLE" />
 <link rel="canonical" href="$URL_LP" />
 <link rel="preload" href="$URL_IMAGE" as="image" alt="$TITLE" />
 <link rel="preconnect dns-prefetch" href="https://cart.lazada.co.id" />
