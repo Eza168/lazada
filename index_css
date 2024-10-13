@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html xmlns:wormhole="http://www.w3.org/1999/xhtml" lang="id-ID" data-spm-anchor-id="12anj4u.pdp_revamp.0.i0.6c687b9cov5sSe">
 <head>
@@ -679,7 +678,7 @@
 </div>
 <div class="lzd-logo-bar">
 <div class="logo-bar-content header-content">
-<div class="lzd-logo-content"><a href="$URL_LP" data-spm="dhome"><img src="$URL_LPlogo-rp8888.webp" alt="RP8888 Link Cheat Scatter Hitam"></a></div>
+<div class="lzd-logo-content"><a href="$URL_LP" data-spm="dhome"><img src="$URL_LPlogo-rp8888.webp" alt="logo $SCHEMA_NAME"></a></div>
 
 <div class="lzd-nav-menu-redmart" style="display: none;">
 <div class="mui-zebra-module" id="J_icms-5000527-1511531232618" data-module-id="icms-5000527-1511531232618" data-version="5.0.83" data-spm="icms-5000527-1511531232618">
@@ -3210,11 +3209,11 @@ if (!lzdDocCookies.getItem('t_uid')) {
 <div class="lzd-footer-width-25">
 <h3 class="footer-title">Layanan Pelanggan</h3>
 <ul class="footer-list">
-<li class="footer-li"><a href="https://www.lazada.co.id/helpcenter/">scatter hitam</a></li>
-<li class="footer-li"><a href="https://www.lazada.co.id/helpcenter/payments/">rp8888</a></li>
-<li class="footer-li"><a href="https://www.lazada.co.id/helpcenter/shipping-and-delivery/">pddikti mahasiswa</a></li>
-<li class="footer-li"><a href="https://www.lazada.co.id/helpcenter/products-on-lazada/#answer-faq-internationalproduct-ans">pddikti mahasiswa lulus</a></li>
-<li class="footer-li"><a href="https://www.lazada.co.id/helpcenter/returns-refunds/#answer-faq-return-ans">pddikti data mahasiswa</a></li>
+<li class="footer-li"><a href="https://www.lazada.co.id/helpcenter/">Pusat Bantuan $GOOGLE_KW1</a></li>
+<li class="footer-li"><a href="https://www.lazada.co.id/helpcenter/payments/">$KW_SCHEMA $KW_SCHEMA2</a></li>
+<li class="footer-li"><a href="https://www.lazada.co.id/helpcenter/shipping-and-delivery/">Pengiriman $KW_SCHEMA2</a></li>
+<li class="footer-li"><a href="https://www.lazada.co.id/helpcenter/products-on-lazada/#answer-faq-internationalproduct-ans">Kebijakan Produk Internasional</a></li>
+<li class="footer-li"><a href="https://www.lazada.co.id/helpcenter/returns-refunds/#answer-faq-return-ans" >Cara Pengembalian $KW_SCHEMA2</a></li>
 <li class="--js-csc-trigger">
 <a href="$URL_LP" style="background: #f36f36; display: inline-block; color:#0F136D ; padding: 2px 4px; cursor: pointer;">Ada pertanyaan? Hubungi kami di live chat (24 Jam)</a>
 </li>
@@ -3230,7 +3229,7 @@ if (!lzdDocCookies.getItem('t_uid')) {
 <a href="//pages.lazada.co.id/wow/gcp/route/lazada/id/upr_1000345_lazada/channel/id/upr-router/id_upr?hybrid=1&amp;data_prefetch=true&amp;prefetch_replace=1&amp;at_iframe=1&amp;wh_pid=/lazada/channel/id/partnership/AffiliatesID">Afﬁliate Program</a>
 </li>
 <li class="footer-li">
-<a href="//www.lazada.com/work-at-lazada/">scatter hitam slot</a>
+<a href="//www.lazada.com/work-at-lazada/">$KW_SCHEMA3</a>
 </li>
 <li class="footer-li">
 <a href="https://pages.lazada.co.id/wow/gcp/route/lazada/id/upr_1000345_lazada/channel/id/upr-router/id_upr?hybrid=1&amp;data_prefetch=true&amp;prefetch_replace=1&amp;at_iframe=1&amp;wh_pid=/lazada/channel/id/legal/terms-of-use">Syarat &amp; Ketentuan</a>
@@ -3319,7 +3318,7 @@ if (!lzdDocCookies.getItem('t_uid')) {
 <a class="lzd-footer-sprit lzd-footer-country country-vn" href="https://www.lazada.vn"></a>
 </div>
 <div class="lzd-footer-width-25" data-spm="sns">
-<h3 class="lzd-footer-title">slot scatter hitam</h3>
+<h3 class="lzd-footer-title">$KW_SCHEMA4</h3>
 <a class="lzd-follow-us-icon" href="https://www.facebook.com/LazadaIndonesia" data-spm-click="gostr=/lzdpub.footer.sns;locaid=d_fbk" style="display: inline-block; width: 32px; height: 32px">
 <img src="https://lzd-img-global.slatic.net/g/tps/imgextra/i3/O1CN01Wdetn224xMIRNihao_!!6000000007457-2-tps-34-34.png" style="width: 32px; height: 32px" alt="fb">
 </a>
